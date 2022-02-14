@@ -1,0 +1,18 @@
+1) Önce node.js kurun.(pc özelliklerine göre x86 veya x64 seçip kurun.) 
+32bit: (https://nodejs.org/dist/v16.14.0/node-v16.14.0-x86.msi)
+64bit: (https://nodejs.org/dist/v16.14.0/node-v16.14.0-x64.msi)
+
+2) kur.exe 'i çalıştırın ve gerekli modüllerin kurulmasını bekleyin.
+
+3) Şimdi programı çalıştırıp captchaları geçebilirisin *_*
+
+
+
+birkaç öneri;
+*İp adresi değiştirmek haliyle zorunlu. Bazen 2 bazen 3 bazen 8 taneye kadar gerek kalmıyor. Ancak siz yine de bir otomasyona bağlayacaksanız,
+her 2-3 seferde bir ip kesinlikle değiştirin. (Kesinlikle mobil ip öneririm)
+*Programın sürdürülebilirliğine garanti vermem, kullanıma kapatma hakkımı saklı tutarım.
+*Program deneme amaçlıdır 3. parti erişimlere ihtiyaç duymaktadır garantisi olmayan şeylerin satışını yapmadığımdan ötürü gidişata göre şuanlık ücretsizdir, 
+unutmayın ki belki yarın belki 10 yıl sonra kapanabilir.
+*Yinede herhangi bir fikir,istek veya öneri için iletişime geçebilirsiniz r10@whySe
+
