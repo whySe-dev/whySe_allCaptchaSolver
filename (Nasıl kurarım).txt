@@ -4,7 +4,7 @@
 
 2) kur.exe 'i çalıştırın ve gerekli modüllerin kurulmasını bekleyin.
 
-3) Şimdi programı çalıştırıp captchaları geçebilirisin *_*
+3) Şimdi programı çalıştırıp captchaları geçebilirsin *_*
 
 
 
